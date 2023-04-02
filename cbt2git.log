@@ -1,0 +1,25 @@
+2023-04-02 22:28:11.238152 - Initialized conversion of CBT186
+2023-04-02 22:28:12.916588 - Received CBT.V504.FILE186.PDS from FILE186.XMI 
+2023-04-02 22:28:12.919861 - Found $$$$INFO.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/$$$$INFO
+2023-04-02 22:28:12.921057 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:28:12.922405 - Found CNCLPGA.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGA
+2023-04-02 22:28:12.923937 - Found CNCLPGA$.jcl (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGA$
+2023-04-02 22:28:12.925255 - Found CNCLPGAO.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGAO
+2023-04-02 22:28:12.926625 - Found CNCLPGAP.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGAP
+2023-04-02 22:28:12.928073 - Found CNCLPGAQ.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGAQ
+2023-04-02 22:28:12.929515 - Found CNCLPGAR.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGAR
+2023-04-02 22:28:12.931040 - Found CNCLPGAS.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGAS
+2023-04-02 22:28:12.932519 - Found CNCLPGAT.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CNCLPGAT
+2023-04-02 22:28:12.933841 - Found CONVERT.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CONVERT
+2023-04-02 22:28:12.935770 - Found CRACDICT.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CRACDICT
+2023-04-02 22:28:12.937157 - Found CRACKER.jcl (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/CRACKER
+2023-04-02 22:28:12.937167 - Found CRACKOBJ.bin containing application/octet-stream, moved to PDS/CRACKOBJ
+2023-04-02 22:28:13.082282 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE186.PDS
+2023-04-02 22:28:13.205279   - Received RECFM=U data, stored XMIT file as CBT186/LOADLIB.xmi
+2023-04-02 22:28:13.206510 - Found PZAP22.jcl (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/PZAP22
+2023-04-02 22:28:13.207603 - Found PZAP23.jcl (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/PZAP23
+2023-04-02 22:28:13.208565 - Found PZAP24.jcl (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/PZAP24
+2023-04-02 22:28:13.209482 - Found RACRACKR.txt (text/plain) in CBT.V504.FILE186.PDS, moved to PDS/RACRACKR
+2023-04-02 22:28:13.297017 - Found SYSMOD.xmi (application/xmit) in CBT.V504.FILE186.PDS
+2023-04-02 22:28:13.314529   - Received to CBT186/SYSMODS.PDS
+2023-04-02 22:28:13.314844 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
